@@ -1,8 +1,5 @@
-# ----
-# Site
-
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+title: 美訂美當 訂餐系統
+url: "https://order.sivir.pw"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -10,20 +7,20 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
+description: 訂餐系統介紹
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Hydra Template
+  name: Hsuan
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
-
+    - https://hsuan.app
+    
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: Asia/Taipei
 
 collections:
   staff_members:
